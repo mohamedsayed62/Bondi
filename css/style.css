@@ -118,7 +118,7 @@ body {
   content: 'Application';
   position: absolute;
   top: 50%;
-  left: -350px;
+  left: -500px;
   transform: translateY(-50%);
   background-color: rgba(51, 209, 204, 0.9);
   width: calc(100% - 9px);
